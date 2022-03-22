@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/21089760/159576292-a49865bf-33e7-44e1-8208-1d605182ce06.png)
 
 MonsterHunt yani canavar avı projesi vue eğitimleri başında yapmış olduğumuz bir uygulamasıdır.
-Bu proje vue cli ile değil direkt vuejs linki eklenerek yapılan basit bir projedir.
+Bu proje vue cli ile değil direkt vuejs linki eklenerek yapılan basit bir projedir. Proje amacı vue kontrollerini uygulamalı bir şekilde tanımaktır.
 Eğitimde yaptığımız temel proje üzerine bazı özelleştirmeler ekleyerek oyunu biraz daha eğlenceli hale getirdik, hemen projeyi indirerek sende deneyebilirsin :)
 
 
