@@ -68,8 +68,8 @@ Uygulamayı lokalinizi indirerek index.html dosyasını browserda açarak direkt
 * Yeni Oyun butonuna bas
 ![image](https://user-images.githubusercontent.com/21089760/159576292-a49865bf-33e7-44e1-8208-1d605182ce06.png)
 * Saldırı butonunu kullanarak atak yap
-* Özel saldırı butonu enerjin doldukça kullanara daha fazla hasar ver
-* Canın azaldıkta enerji hakkını kullan
+* Özel saldırı hakkın olduğunda bunu kullanarak daha fazla hasar ver
+* Canın azaldıkta "İlk Yardım" kullan
  ![image](https://user-images.githubusercontent.com/21089760/159576774-5f8c4c2e-ff75-45f7-9d16-2012a439ab2d.png)
  * Oyun başladığında canavar seni beklemeyecek o nedende elini biraz hızlı tutman gerekiyor :)
  * İyi eğlenceler
